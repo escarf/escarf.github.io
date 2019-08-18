@@ -29,7 +29,7 @@ social_sites:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
