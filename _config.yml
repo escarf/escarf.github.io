@@ -28,7 +28,7 @@ social_sites:
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
